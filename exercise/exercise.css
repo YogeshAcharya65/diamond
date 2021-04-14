@@ -1,0 +1,24 @@
+.title{
+	font-family: Arial;
+	font-style: oblique;
+	text-align: justify;
+
+}
+
+.exercise{
+	font-size: 22px;
+	font-family: Times New Roman;
+	text-align: justify;
+
+
+}
+
+.image{
+
+	width: 50%;
+	height: 50%;
+	object-fit: cover;
+	margin-bottom: 20px;
+
+
+}

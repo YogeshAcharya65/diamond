@@ -1,0 +1,38 @@
+.link{
+	padding: 20px;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.write{
+	font-size: 20px;
+	margin-left: 10px;
+	color: #8D8D8D;
+}
+
+.image{
+	text-align: center;
+}
+
+.title{
+	font-weight: bolder;
+	text-align: left;
+	font-size: 50px;
+}
+
+.price{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color: orange;
+}
+.para{
+	text-align: justify;
+}
+.brand{
+	font-size: 20px;
+}
+.des{
+	font-size: 15px;
+	font-weight: bold;
+}
